@@ -13,7 +13,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <script src="web/js/jquery.min.js"></script>
 <!-- Custom Theme files -->
 <!--theme-style-->
-<link rel="shortcut icon" href="web/images/minilogo.png" />
+<link rel="shortcut icon" href="web/images/minilogo.PNG" />
 <link href="web/css/style.css" rel="stylesheet" type="text/css" media="all" />
 <!--//theme-style-->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -38,7 +38,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="header">
 			<div class="container">
 				<div class="logo">
-					<a href="index.html"><img src="web/images/mainlogo1.png" alt="" ></a>
+					<a href="index.html"><img src="web/images/mainlogo1.PNG" alt="" ></a>
 				</div>
 				<div class="top-nav">
 				<span class="menu"> </span>
