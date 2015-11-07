@@ -16,7 +16,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		// TODO Auto-generated method stub
 		//Server server = new Server(Integer.valueOf(System.getenv("PORT")));
-     	//port(Integer.valueOf(System.getenv("PORT")));
+     	port(Integer.valueOf(System.getenv("PORT")));
 	    staticFileLocation("/public");
 
 
